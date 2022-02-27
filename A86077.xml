@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons lawless liberty: or A Gozmonian partie licensed. Being a true discoverie of a pack of prodigious knaves, who have under pretence of an act of Common Councell of the City of London, seized (as they tearme it) and taken away from divers free-men of the same city, their true aud [sic] proper goods, and that in such a horrid and uncivil[l?] manner, as no heathens whatsoever, could with more cruelty have exercised the same. Together with a particular of the names of some of those persons which have had their goods illegally taken away, as the same was attested under their hands, and presented to the adjutators of the army, under the command of his Excellency Sir Thomas Fairfax, Captaine Generall of all the forces in England and Wales, the 27. of August, 1647. / Published by Iohn Harvey Gentleman.</title>
+            <author>Harvey, John, gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86077</idno>
+            <idno type="STC">Wing H1082</idno>
+            <idno type="STC">Thomason E407_9</idno>
+            <idno type="STC">ESTC R201941</idno>
+            <idno type="EEBO-CITATION">99862422</idno>
+            <idno type="PROQUEST">99862422</idno>
+            <idno type="VID">114581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114581)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons lawless liberty: or A Gozmonian partie licensed. Being a true discoverie of a pack of prodigious knaves, who have under pretence of an act of Common Councell of the City of London, seized (as they tearme it) and taken away from divers free-men of the same city, their true aud [sic] proper goods, and that in such a horrid and uncivil[l?] manner, as no heathens whatsoever, could with more cruelty have exercised the same. Together with a particular of the names of some of those persons which have had their goods illegally taken away, as the same was attested under their hands, and presented to the adjutators of the army, under the command of his Excellency Sir Thomas Fairfax, Captaine Generall of all the forces in England and Wales, the 27. of August, 1647. / Published by Iohn Harvey Gentleman.</title>
+                  <author>Harvey, John, gentleman.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for the good of all free-men, who desire to maintaine their owne priviledges in their calling,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:114581:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:114581:1" rendition="simple:additions"/>
+            <p>LONDONS LAWLES LIBERTY: OR A <hi>Gozmonian</hi> partie licenſed.</p>
+            <p>Being a true diſcoverie of a pack of prodigious knaves, who have under pretence of an Act of Common Councell of the City of <hi>London,</hi> ſeized (as they tearme it) and taken away from divers free-men of the ſame City, their true and proper goods, and that in ſuch a horrid and unci<g ref="char:EOLhyphen"/>vil manner, as no heathens whatſoever, could with more cruelty have exerciſed the ſame.</p>
+            <p>Together with a particular of the names of ſome of thoſe perſons which have had their goods illegally taken away, as the ſame was atteſted under their hands, and preſented to the Adjurators of the Army, un<g ref="char:EOLhyphen"/>der the Command of his Excellency Sir <hi>Thomas Fairfax,</hi> Captaine Generall of all the forces in <hi>England</hi> and <hi>Wales,</hi> the 27, of <hi>Auguſt,</hi> 1647.</p>
+            <p>Publiſhed by <hi>Iohn Harvey</hi> Gentleman.</p>
+            <q>
+               <bibl>
+                  <hi>Iſaiah, 1.23.24.</hi>
+               </bibl>
+               <p>Thy Princes are rebellious and Companions of Theeves, every one loving gifts, and followeth after rewards, they judge not the father<g ref="char:EOLhyphen"/>leſſe, neither doth the cauſe of the Widow come unto them, therefore ſaith the Lord, the Lord of Hoſt, the mighty one of Iſrael: Ah <hi>I</hi> will eaſe me of my adverſaries, and avenge me of mine enemies.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Zachariah 5.4.</hi>
+               </bibl>
+               <p>
+                  <hi>J</hi> will bring it forth ſaith the Lord of Hoſt, ſo that it ſhall come to the houſe of him that falſely ſweareth by my name, and ſhall remaine in his houſe, and conſume it with the timber and ſtones thereof.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Zephaniah 3.3.</hi>
+               </bibl>
+               <p>Her Rulers within her, are as roaring Lyons, her Iudges are as Wolves in the evening, which leave not the bones till the morrow.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed, for the good of all free-men, who deſire to maintaine their own priviledges in their calling, in the yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114581:2"/>
+            <pb n="1" facs="tcp:114581:2"/>
+            <head>LONDONS LAVVLES LIBERTY. OR<note n="*" place="margin">Gozm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or the Spaniſh Rogue.</note> A <hi>Gozmonian</hi> Party licenced.</head>
+            <p>YOu worthy Citizens, Freemen, and Apprentizes of the City of <hi>London,</hi> and all others who have taken the late <hi>Nationall Covenant.</hi> I doubt not but you well remember that you thereby ſolemnly ingaged your ſelves to maintaine, preſerve, and defend the fundamentall lawes of this kingdome, and to ſquare your actions accordingly, imprecating the wrath and vengeance of the great God of heaven and earth to fall upon you, when you ceaſe to performe what you then ſwore to and de<g ref="char:EOLhyphen"/>clared.</p>
+            <p>Now therefore Gentlemen, that you may the better performe what you then vowed and proteſted to maintaine, I ſhall hereby acquaint you with a moſt illegall, (and as the ſame is executed) a tyrannicall <hi>Act of Common Councell of the City of London,</hi> the Contents whereof is as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <floatingText xml:lang="eng" type="Act_of_Common_Council">
+               <body>
+                  <head>
+                     <hi>Commune Concil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> tent in Communia Guihald Ciuitat London, Sexto die Iulii,</hi> 1602.</head>
+                  <p>WHereas by the priveledges and Franchiſes of the City of <hi>London,</hi> confirmed by Parliament, every Ware-Houſe, ſhop and other place within the City of <hi>London</hi> and the liberties of the ſame, having o<g ref="char:EOLhyphen"/>pen ſhew into any of the ſtreets or laines of this City, hath time out of mind been reputed, and known to be, and ſo ought, and hath been accuſto<g ref="char:EOLhyphen"/>med to be, and in very deed is an open and publique market place for ſhew and ſale of wares, and Merchandiſe within the ſaid City, and the
+<pb n="2" facs="tcp:114581:3"/>liberties of the ſame. <hi>And whereas</hi> in antient time, the open ſtreets and laines of the ſaid City, have been only uſed and accuſtomed, and ſo ought to be uſed and accuſtomed for open paſſage, as the common high way only, and not for Huxters, Pedlers and Haglers to ſtand and ſit to ſel their wares in, and to paſſe from ſtreet, and place to place, hawking and offering their wares to ſel; other then certain places of the ſaid City, which have been of ancient time accuſtomed to be ſpecially uſed for country people to ſtand and ſit to fell victuals in, and that only upon certaine dayes in the weeke, and certaine houres of the day. <hi>And whereas</hi> now of late yeares, there be two ſorts of people which are greatly increaſed and doe greatly hinder the ordinary and honeſt trades men, being ſhop<g ref="char:EOLhyphen"/>keepers in their ſeverall trades, within the City and the liberties of the ſame, and impover<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh others, and utterly undoe many of them, the one of which two ſorts be Fattiners, and others which wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke up and down the ſtreets, hawking with wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, and offering the ſame to be ſold openly to all ſorts of people as they ſtand, ſit or paſſe, and likewiſe come to men or womens doores, and into their houſes or roomes and offereth the ſaid wares to ſell. And the other of the two ſorts be for the moſt part wo<g ref="char:EOLhyphen"/>men, and ſome others alſo ſitting or ſtanding at mens doors or ſtalls with their wares lying or hanging for ſhew and ſale there, and ſome of them ſtanding or ſitting with their wares upon tables or ſtooles in the open ſtreets, laines on high wayes of the ſaid City, ordained and appointed for paſſage and not for ſale or wares, by reaſon whereof very many houſe<g ref="char:EOLhyphen"/>houlders who have been in great trade, and raiſed great profit by retai<g ref="char:EOLhyphen"/>ling in their ſhops, are very much hindred and ſome forced to ſet Hag<g ref="char:EOLhyphen"/>lers and Hawkers at worke, to carrie abroad their wares up and down the ſtreets, to the end to take ſome mony to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lpe to relieve themſelves and their families, which inconveniences, if due remedie be not in time pro<g ref="char:EOLhyphen"/>vided, are like to g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow in a very ſhort time to doe very much hurt, not only in abating or her Maieſties profit in her ſubſidies and other ſervices, but alſo in weakning the Citizens in ſuch ſort, as they ſhall not be able to yeeld their aid in baring Scor and Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; and other charges ordinarie and extraordinary for the maintenance of the good eſtate of the ſaid City, and very many of them only by meanes of the ſaid inconveniences made utterly unable to maintaine their own houſholds and families. <hi>For remedy therefore</hi> of the ſaid inconveniences: Be it inacted, ordained and eſtabliſh<g ref="char:EOLhyphen"/>ed, by the right honourable the Lord Major of the City of London, and his right worſhipfull Brethren, the Aldermen of the ſaid City, and the
+<pb n="3" facs="tcp:114581:3"/>Commons in this preſent Common Councell aſſembled, and by autho<g ref="char:EOLhyphen"/>ritie of the ſame, that no perſon or perſons whatſoever inhabiting, or which hereafter ſhall inhabite within the City of <hi>London,</hi> or the liberties of the ſame, ſhall at any time hereafter by any collour, wayes or meanes whatſoever, let or willingly ſuffer to be uſed any ſtall, incroachment or purpreſtures ſcituat or being before his, her, or their houſe, ſhop or o<g ref="char:EOLhyphen"/>ther place whatſoever, in any open ſtreet or laine of this City whatſoe<g ref="char:EOLhyphen"/>ver, to or by any perſon or perſons whatſoever, which ſhall there ſell, ut<g ref="char:EOLhyphen"/>ter or put to ſale any Linnen cloath, or any ware made of Linnen cloath, or any Starch or other wares or merchandize whatſoever, nor ſhall wil<g ref="char:EOLhyphen"/>lingly ſuffer any perſon or perſons whatſoever, to ſell, ſhew, offer or put to ſale any Linnen cloath, Starch, wares or merchandize whatſoever, upon any ſtoole, ſeat or other thing before his her, or their houſe or ſtall, upon paine to forfeit the ſum of 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> of lawfull money of <hi>England,</hi> for every time wherein he, ſhe or they, ſhall offend contrary to the true meaning hereof. And be it further inacted by the authority aforeſaid, that no perſon or perſons whatſoever, ſhall at any time hereafter, by any colour, wayes or meanes whatſoever, directly or indirectly, ſell, utter, or put to ſale by way of hawking, or as a Hawket, any Linnen cloth or a<g ref="char:EOLhyphen"/>ny other ware made of Linnen cloth, Starch or any other wares or mer<g ref="char:EOLhyphen"/>chandizes whatſoever, in any open ſtreet or laine, within the ſaid City or the liberties thereof (victuall in the market place, and in market time on<g ref="char:EOLhyphen"/>ly excepted) otherwiſe then upon the ſtall of his, her, or their own ſhop or dwelling houſe, or in his, her, or their ware houſe, ſhop or dwelling houſe, upon paine to forfeit for every time he, ſhe or they ſhall ſo offend, all the Linnen cloath, or other ware whatſoever to be ſold, uttered or put to ſale, contrary to the true meaning hereof, and to forfeit alſo the ſum of 20 <abbr>s</abbr> of lawful money of <hi>England.</hi> And be it further enacted, ordai<g ref="char:EOLhyphen"/>ned and eſtabliſhed by the authority aforeſaid, that the one mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tie or halſe part of all the paines, penalties and forfeitures to be forfeited by ver<g ref="char:EOLhyphen"/>tue of this Act, ſhall be to the Chamberlin of the City of London for the time being, to the uſe of the Major and Commonalty and Citizens of the ſame City. And the other moity thereof to him or them that will there<g ref="char:EOLhyphen"/>fore ſue by Action of debt Bill or information, to be affirmed, exhibited or commonſed and proſecuted in the Queens Majeſties Court to be hoſ<g ref="char:EOLhyphen"/>den before the Major and Aldermen of the ſaid City, in the chamber of Guild Hall of the ſame City, wherein no wager of Law ſhall be admitted for the Defendant. And that it ſhall and may be lawfull, to all and every
+<pb n="4" facs="tcp:114581:4"/>perſon or perſons whatſoever thereunto authorized by the Lord Major, and Court of Aldermen of the City aforeſaid, for the time being, who ſhall ſee or know any Linnen cloath, wares made of Linnen cloath, Starch or other wares or merchandizes whatſoever, which ſhall bee bought, ſold, uttered or offered to be put to ſale, contrary to the true meaning of this preſent Act. And thereby ſhall be forfeited by vertue of this Act, to ſeize the ſame, and to carrie and convey the ſame to the Guild Hall of the ſaid City, or to ſome place neer unto the ſame, there to remaine in ſafe cuſtodie, untill the ſame ſhall be diſpoſed of according to the true meaning of this preſent Act.</p>
+               </body>
+            </floatingText>
+            <p>This Act of Common Counſel,<note place="margin">City of Londons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe. Devinets aſe. an 2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hil. and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary. 7 2. Edw. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Hen. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14.</note> is utterly void and againſt law, for that no Citizen or free man of <hi>London</hi> can be reſtrained by an act of Common Councell to ſell or proffer his wares in the ſtreet upon pain of forfeiture.</p>
+            <p>Secondly, This Act of Common Councell is void, for that every act of Common Councell ought to have theſe quallifications. Firſt, it ought to be agreeable to law. Secondly, it ought to be moderate, impoſing a pe<g ref="char:EOLhyphen"/>cunary, and not a corporall paine, and no forfeiture of goods. Thirdly, for ſuppreſſing of evill things. Fourthly agreeable to reaſon. Fifthly, for common profit.</p>
+            <p>This Act is void of all theſe, It is not agreeable to law, neither is there any moderation, but extremitie by penall, paine, and forfeiture, here is no evill ſuppreſſed, for there is no evill done by a Citizen of <hi>London</hi> to ſell his goods in <hi>London,</hi>
+            </p>
+            <p>
+               <hi>London</hi> is an open market every day in the yeare, but <hi>Sunday,</hi> for a free man to ſell his goods in open marker is no evill.</p>
+            <p>It is not agreeable to reaſon to debarre a free man of a City, to trade freely therein, reaſon being the fountaine of honeſt lawes, gives to every man propriety and liberty, property of intereſt, freedom of enjoyment, and improvement to his beſt advantage.</p>
+            <p>It is not for the common profit, the ſellers being manufactors and free<g ref="char:EOLhyphen"/>men of the City, pay taxes and tallages. This Act is in effect to raiſe pri<g ref="char:EOLhyphen"/>ces, for the manufactor ſelleth cheaper then the ſhop keeper, who en<g ref="char:EOLhyphen"/>deavouring to bring all the cuſtome to their ſhops, is only to advance a kind of a monopolie, which the law abhorteth.</p>
+            <p>For as Sir <hi>Edward Cooke</hi> in the third part of his Inſtitutions, fol. 181. commenting upon the Statute of the 21 <hi>Iames 3.</hi> which Statute is abſo<g ref="char:EOLhyphen"/>lutely againſt Monopoliſts, and Monopolizers, he there poſſitively ſaith,
+<pb n="5" facs="tcp:114581:4"/>that they are againſt the antient and fundamentall lawes of this King<g ref="char:EOLhyphen"/>dom, and that he may be the better underſtood what he means by Mo<g ref="char:EOLhyphen"/>nopolie, he thus defines it.</p>
+            <p>A Monopolie, is an inſtitution or allowance by the Kings grant, Commiſſion or otherwiſe, to any perſon or perſons, bodies politique or corporate o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or for the ſole buying, ſelling, making or uſeing of any thing whereby any perſon or perſon, bodies politique or corporate are ſought to be reſtrained of any freedome or libertie, that they had before, <hi>or hindred in their lawfull trades.</hi>
+               <note place="margin">Deut. 24 <hi>6.</hi>
+               </note> And he there ſaith, that the law of this Realm againſt Monopolies, is grounded upon the law of God, <hi>No man ſhal take the nether or upper milstone to pledge, for he taketh a mans life to pledge.</hi> Whereby it appeareth that a mans trade is counted his life, the Monopo<g ref="char:EOLhyphen"/>liſt or ſhop keeper which taketh away a mans trade taketh away his life, and therefore he is ſo much the more odious, becauſe he is <hi>Vir ſan<g ref="char:EOLhyphen"/>guinis,</hi> a man of blood againſt thoſe inventors and propounders of evill, the holy Ghoſt hath ſpoken,<note place="margin">Rom. 1.30.</note> 
+               <hi>Inventoris, malorum, &amp;c. digni ſunt morti,</hi> the Inventors of evill, &amp;c. ate worthy of death.</p>
+            <p>This Act of Common Councell, is alſo contrary to the light of nature, which teacheth men to walk by congruety and equallity, not to oppreſſe becauſe they would not be oppreſſed, nor to take away another mans right, becauſe they would not have another to uſe the ſame meaſure to them, which principle of nature is ingrav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n upon the hearts of Heathens, who certainly wil one day riſe up in judgment againſt them, which would make us ſlaves in our own land, contrary to the honour of nation, be<g ref="char:EOLhyphen"/>cauſe by it the people are put into a condition of vaſſalage in their owne country.</p>
+            <p>This Act of Common Councell being alſo againſt the common right and profit of the people, and not approved before the execution thereof, by the Lord Chancellor, Treaſurer, both the chiefe Iuſtices, or three of them, the partie which put the Act in execution for<g ref="char:EOLhyphen"/>feit 40. l.<note place="margin">19. Hen. 7.7.</note>
+            </p>
+            <p>Nevertheleſſe although it be the knowne freedome of every free man of <hi>London,</hi> handicrafts man, ſhop keeper or merchant, to ſell his goods Manufactors wares or commoditie either to free man or Farriner, Eng<g ref="char:EOLhyphen"/>liſh man or ſtranger, in ware houſe, ſhop, private houſe or Inn: yet the ſhop keepers have and doe unconſcionably repine at the uſe of this li<g ref="char:EOLhyphen"/>bertie in the Manufacterors: and as time have favoured, injuſtice have ac<g ref="char:EOLhyphen"/>cuſtomed to ſtruggle againſt this their lawfull libertie, to the great op<g ref="char:EOLhyphen"/>preſſion
+<pb n="6" facs="tcp:114581:5"/>and hindrance of multittudes of the poorer ſort of trades men and to the extream miſerie and affliction of their families, for that, if in vacations and dead times, neceſſit us people, had not this libertie but were in effect bound up to the ſhop keeper, or to ſell to f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee men they would ſo frequently be put either upon pawning their goods to Uſerers, or ſelling them to extream loſſe for money to buy their food that they would be thereby undone an brought to beggery.</p>
+            <p>All which the Shopkepers well knowing, the better to accompliſh their unjuſt, unlawfull and unconſcionable deſign petitioned Mr. Alder<g ref="char:EOLhyphen"/>man <hi>Adams,</hi> when he was Major, for a warrant to ſeize and take away ſuch goods and commodities as the Manufacture<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould conveigh or ſend to his Merchant or Chapman, upon which petition they obtained a warrant, the contents whereof is as followeth.</p>
+            <floatingText xml:lang="eng" type="warrant">
+               <body>
+                  <head>
+                     <hi>(viz)</hi> Adam, Major Martis <hi>16</hi> Die Junii. <hi>1646.</hi>
+                  </head>
+                  <p>
+                     <hi>Anno</hi> 2. <hi>Regis. Carrol</hi> 2 This day upon the humble petition of divers Citizens, for redreſſe of abuſes and inconveniences by Huxiers, Pediets and H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers, hawking and offering their wares to ſell in the o<g ref="char:EOLhyphen"/>pen ſtreets of this City, this Court doth hereby appoint and authorize that <hi>Edward Hancock, Robert Petly, John Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pſon, Nicholas Wainew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ight and Perigrin Stevenſon,</hi> Free men of this City, according to an Act of Com<g ref="char:EOLhyphen"/>mon Counſell, made the ſixt day of <hi>July</hi> 1602 joyntly and ſeverally to ſee that one ſaid Act for the future, be duly executed in its particular branch, according to the tenor and true meaning thereof.</p>
+               </body>
+            </floatingText>
+            <p>Which Act (albeit the ſame was never put in execution againſt Free<g ref="char:EOLhyphen"/>men; in above fortie years before) the patties authorized being perſons of a meane cond<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on but of cruel and malicious ſpirits, have according to their unconſcionable and unchriſtianlike will and pleaſures cruelly and maliciouſly put the ſame in execution, and have taken from divers wea<g ref="char:EOLhyphen"/>vers &amp; other Manufacturors, being free men of <hi>London</hi> ſeverall parcells of wares, to a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſame tending to the utter ruin and undoing of them and their families, and in particular from the perſons here after men<g ref="char:EOLhyphen"/>tioned, <hi>(viz,)</hi>
+            </p>
+            <p>Vpon the ſecond day of <hi>September</hi> 1646. they by force and violence took from the perſon of <hi>William Smith</hi> at <hi>Beſomes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wtence laine, London,</hi> a parcell of Silke Ribb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns (being his own Manufactory) to the value of 20 <abbr>l</abbr> or thereabouts and upon the <hi>12 day</hi> of <hi>January</hi> following,
+<pb n="7" facs="tcp:114581:5"/>
+               <hi>Iohn Crown</hi> Merchant, bought of him the ſaid <hi>Smith,</hi> another parcell of Silke Ribbins, to the value of 70. l or thereabouts, ſome of which parcell, he the ſaid Mr. <hi>Crown</hi> carried a vay with him, and the reſidue <hi>Smiths</hi> wife carried to <hi>Rude laine, London,</hi> to a place where the ſaid Merchant appointed, at which place the above named parties, did by force and violence take the ſame <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom her, together with her basket and cloath in which the warn was to the value of 5. <abbr>s</abbr> more, putting her in great feare and danger of her life , ſhe being then great with child.</p>
+            <p>That upon or about the ſecond day of <hi>September,</hi> 1646. <hi>Iohn Williams</hi> bought of <hi>Thomas Poole</hi> a parcell of Silke Ribbins, being his own Manufa<g ref="char:EOLhyphen"/>ctory to the value of 30 <abbr>l</abbr> the ſame being by the direction of the ſaid Mer<g ref="char:EOLhyphen"/>chant to be carried to <hi>Boſoms J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> in <hi>Lawrence laine, London, Poole</hi> ſent the ſame by —his wife, and <hi>Elizabeth</hi> his daughter to the place ſo appointed, where the ſaid <hi>Petly, Hancock Compſon, Wainright and Stevenſon,</hi> by force and violence took the ſame parcell of R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbins from <hi>Elizabeth,</hi> the daughter of the ſaid <hi>Poole,</hi> moſt inhumainly and barbarouſly abuſing both her and her mother, ſo that they were by them inforced to cry out murther.</p>
+            <p>That upon the 8 day of <hi>June</hi> laſt, <hi>Richard Ruſſell</hi> ſold unto <hi>Thomas Hind</hi> Merchant a parcell of Silke Lace, to the value of 5. <abbr>l</abbr> 10. <abbr>s</abbr> being his own Manufactory, and according to the direction of the ſaid <hi>Hind,</hi> he the ſaid <hi>Ruſſell</hi> delivered the ſame to him at his lodging at the bare in <hi>Baſing ſhaw<g ref="char:EOLhyphen"/>ſtreet, London,</hi> where the ſaid <hi>Petly, Hancock, Compſon, Wain Wright</hi> and <hi>Ste<g ref="char:EOLhyphen"/>venſon</hi> did by force and violence take the ſaid parcell of Lace from the ſaid <hi>Hinde,</hi> under pretence of their warrant aforeſaid.</p>
+            <p>That upon the 23 day of <hi>June</hi> laſt, one Mr. <hi>Ogliby</hi> a Merchant bought of <hi>Roger Rockly</hi> Cutler a parcell of Swords to the value of 3.<abbr>l</abbr> being his owne manufactury, which comodities were by <hi>Rocklyes</hi> wife carried to Mr. <hi>Coles</hi> in Rude laine <hi>London,</hi> where the ſaid <hi>Compſon, Hancock, Petly, Wainwright</hi> and <hi>Stevenſon</hi> by force and violence took the ſame from her, and inhumain<g ref="char:EOLhyphen"/>ly beat thruſt, and abuſed her, ſhe being great with child cryed out to them to have pittie upon her, to which <hi>Compſon</hi> anſwered, that he neither cared for her or her child, upon which fright and abuſe ſhe preſently ſell in labour and the child dyed, and with in 7 dayes after ſhe alſo dyed, all the time ſhe lived crying our for juſtice againſt the murtherer, but as yet none can be had.</p>
+            <p>They alſo took from the wife of <hi>Nicholas Govers,</hi> a parcell of Silke Ribbins being his own Manufactury, to the value of 7. <abbr>l</abbr> which parcell of wares was ſold to <hi>Andrew Dove</hi> Merchant.</p>
+            <p>They the ſaid <hi>Hancock, Petly, Compſon, Wain Wright,</hi> and <hi>Stevenſon</hi> alſo
+<pb n="8" facs="tcp:114581:6"/>took from <hi>George Perſons</hi> a parcell of Silke Ribbins, being his own Manu<g ref="char:EOLhyphen"/>factury to the value of three pounds.</p>
+            <p>Which ſaid wrongs and oppreſſions were by the parties above mentio<g ref="char:EOLhyphen"/>ned preſented unto the Adjutators of the army, under the Command of his Excellencie, Sir <hi>Thomas Fairfax,</hi> Captaine Generall of all the forces raiſed in <hi>England</hi> and <hi>Wales,</hi> the 27 of <hi>August,</hi> 1647.</p>
+            <p>All which ſaid, and divers other ſuch illegall and unwarrantable ſeizures, ſince the making of the ſaid warrant, by Mc. Alderman <hi>Adams</hi> as aforeſaid, have ſo cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely, and with ſuch rigor and unchriſtian like demeaner been act<g ref="char:EOLhyphen"/>ed by them, the ſaid Edward Hancock Robert Petly, Iohn Compſon, Nich. Wainwright, and Perig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Stevenſon, as no Heathens, or Infidels whatſo<g ref="char:EOLhyphen"/>ever could with more cruelty have exerciſed the ſame. But ſhould I parti<g ref="char:EOLhyphen"/>cularly mention all the free men of London, from whom they have by force and violence taken away their crue and proper goods, together with the manner of their uncivill and inhumaine carriage towards them, a quire of paper would not be ſufficient to containe the ſame. And further to make their ſufferings more grievous, the parties thus wronged and abuſed, can neither have Law nor juſtice againſt their oppreſſors.</p>
+            <p>For when <hi>Roger Rockly</hi> complained againſt Compſon for murthering his wife, to Sir <hi>Iohn Woollaſton</hi> Knight, and deſired him to bind Compſon over to anſwer the ſame at the Seſſions, he refuſed ſo to do. And when divers free men complained to Mr. Alderman <hi>Geares</hi> now Lord Major of London, for reliefe againſt the ſaid Hancock. Compſon and their confederates, for ta<g ref="char:EOLhyphen"/>king away their goods, the ſame have been denyed &amp; the parties offending countenanced in their actions, approving the ſame to be good and warran<g ref="char:EOLhyphen"/>table, willing them to perſiſt therein. By reaſon whereof the parties thus wronged being denyed juſtice, they have ſought their reliefe at common law, and Smith and Poole have brough their ſeverall Actions in his Maie<g ref="char:EOLhyphen"/>ſties Court of Kings Bench, againſt the ſaid Wainwright, and his confede<g ref="char:EOLhyphen"/>rated conſorts, whereby the potencie of the City, and pollicie of their Re<g ref="char:EOLhyphen"/>corder, they have been delayed theſe foure rearmes, and can by no meanes bring their actions to a try all, contrary to that clauſe in the grand Charter of <hi>England</hi> expreſſed in theſe words.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. 3.</note> 
+               <q>No free man ſhall be taken or impri<g ref="char:EOLhyphen"/>ſonned, or be diſſeazed of his free hold or liberties, free cuſtomes, or bee outlawed or exiled, or any other wayes deſtroyed, nor will we paſſe upon him, nor condemne him, but by the lawfull judgement of his Peers, or by the Law of the lands, we will ſell to no man, we will not deny or defer to any man either juſtice, or right.</q>
+            </p>
+            <p>That foraſmuch as the ſaid Hancock, Compſon, and Wainwright and
+<pb n="9" facs="tcp:114581:6"/>the reſt of their Competitors, perceiving themſelves to be thus countenan<g ref="char:EOLhyphen"/>ced, and maintained in their unlawfull actions, they moſt impudently and audatiouſly give out in ſpeeches, that they will ruinate and utterly undoe <hi>Smith,</hi> and <hi>Poole,</hi> and make them run away, further ſaying that they have collected of the ſhop keepers who imployed them about taking away the wares and commodities which they ſo unlawfully ſeized, as aforeſaid 500<abbr>l</abbr> in two dayes, which they will expend but they will accompliſh the ſame, Accordingly they have cauſed Smith and Poole to be arreſted upon great Actions for ſaying (as they pretend) that they ſtole the commodities from them, Wainewright in two Tearmes brought his action to a try all, did Smith what he could, and procured only Petly his fellow taker (or rather fellow) to prove the words, and he according to his unlimitted con<g ref="char:EOLhyphen"/>ſcience ſwore he heard the ſame, whereupon the Jury gave Wainewright 20. <abbr>l</abbr> dammage, upon which Smith was caſt in priſon, where he remained until he had made ſatisfaction.</p>
+            <p>The parties thus wronged and their true and proper goods ſo illegally ta<g ref="char:EOLhyphen"/>ken away by the ſaid Compſon, Wainwright and their conferated conſorts by the Monopolizing ſhop keepers, which contrary to the Statute diſbur<g ref="char:EOLhyphen"/>ſed money to maintain law againſt them, have been threatned, that if they take any courſe againſt the ſaid Compſon, Wainwright,<note place="margin">32.8.</note> and the reſt of them, for the recovering of the goods which they ſo illegally took a com<g ref="char:EOLhyphen"/>pany of elboe fellowes, as they be which lke drones doe, but live upon their labours, I would not value one penny, although the <hi>Sly'ſt</hi> ſhop-keeper of them ſhould ſay it. But would take my lawful remedy (if I might have it) both againſt them for taking away my goods, and againſt ſuch of the prou<g ref="char:EOLhyphen"/>deſt of the ſhopkeepers, as I could prove, did uphold them in law againſt me.</p>
+            <p>You honeſt Citizens, Apprentices and others, which <hi>Eſan</hi> like will not be contented to ſell (or which is worſe) to give away out Birth rights and in<g ref="char:EOLhyphen"/>heritance, the fundamentall lawes or the Kingdome, which the meaneſt of you, as he is a freeman of <hi>England,</hi> may as lawfully claime as the greateſt, Gentleman, or Nobleman in the Kingdome. Doe not therefore any of you countenance, maintain or ſuffer either Compſon, Hancock or any of their ſaid confederates, ſo unlawfully to ſeize (as they tearme it) to take away free mens goods in execution of their pretended warrant, granted unto them, for the putting of that illegall and unwarrantable Act of Common-Counſell in execurion—Which Act being againſt the fundamentall lawes of this Kingdome, the parties which made their warrant, and they which execute it, and alſo thoſe which aſſiſt them, may be the knowne
+<pb n="10" facs="tcp:114581:7"/>and declared lawes of the kingdome, be indited as acceſſories for taking a<g ref="char:EOLhyphen"/>way ſuch goods as they ſhall ſo ſeize, or rather ſteale) from any freeman of the City in perſuance of the ſaid Act of Common Councell, <q>Accurſed be he that is afraid of man that ſhall dy, &amp; of the ſon of man which ſhal be made as graſſe.</q> If the late Earle of <hi>St<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>affo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> and the Biſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> had ſo he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vie a doom for endeavouring only to ſubvert the lawes and liberties of <hi>England,</hi> what doe theſe men deſerve which have ſeen their puniſhment before their eyes, and yet have ſubverted the lawes and liberties of the kingdome, and endeavour to make us ſlaves by a law after we have ſpent the blood of ſo many thouſand gallant Engliſhmen for the preſervati<g ref="char:EOLhyphen"/>on of our freedoms, for ſaith the Parliament in their Declaration, pag. 694. <q>Slavery would be our condition, if we ſhould goe about to overthrow the lawes of the land, and the propriety of every mans eſtate, and the liberty of his perſon</q> All which three divers of the Grandees of the City of Lon<g ref="char:EOLhyphen"/>don, and the monopolizing ſhop keepers and their adherents have done, without any remorſe or conſcience, and their latter practiſes are worſe then their beginning. It would be great honour benefit and profit to the com<g ref="char:EOLhyphen"/>mon wealth, that guilty perſons ſhould be puniſhed, leſt by the omiſſion of the puniſhment of one, many men by that evill example ſhould be incoura<g ref="char:EOLhyphen"/>ged to commit more hainous offences. And excellent to this purpoſe is that ſaying of the Parliament which I deſire may never by any true hearted Engliſhman, be forgotten, Book Decl. pag 39. "Which is, that they are very ſenſible that it equally imports them, as well to ſee juſtice done againſt them which are criminous, as to defend the juſt rights and liberties of the ſubjects and Parliament of England, and therefore pag. 656. they call the execution of the law, the very life and ſoule of the law, as indeed it is, with<g ref="char:EOLhyphen"/>out which it is but a dead letter and a ſenſeleſſe block. But woe unto you Citizens of London, and to your competitors and agents, if the law ſhould be executed againſt you, for that you would be in a worſe condition then you were, when ſome of you with a joynt fraternity like brethren in ini<g ref="char:EOLhyphen"/>quity gave above 60. th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſand pounds ot one time for a bribe, in the dayes of the Councell table to preſerve you from law and juſtice, and to deſtroy the law, and to buy and rob your fellow Citizens, as free as your ſelves, of their liberties, franchiſes, trades and lively hoods. Read the diſcourſe for free trade.</p>
+            <p>And know yee further, you Free men and Apprentices of London, that they which now give warrant and authority to ſeize, and take away the true and proper goods of any free-man of London in the the ſtreets, may if he pleaſe by as good a principle, and as warrantable give power and authority to take his or any of your goods out of his or any of your houſes, which without all doubt (if ſpeedy juſtice be not done againſt them) they will hereafter doe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
